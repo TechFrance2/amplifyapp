@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>This AWS/React stuff is pretty cool!</h1>
+        <h1>This AWS/React stuff is pretty cool! I think I will learn more!</h1>
       </header>
     </div>
   );
